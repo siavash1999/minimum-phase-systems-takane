@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/Minimum_phase#Minimum_phase_as_minimum_group_delay
+
+https://www.youtube.com/watch?v=jGEkmDRsq_M&ab_channel=MATLAB (brian doughlas)
+
+https://www.researchgate.net/post/Can_anyone_please_tell_me_of_a_practical_and_simple_example_of_a_non-minimum_phase_system_and_explain_its_cause_in_an_intuitive_way
+
+https://www.youtube.com/watch?v=9cNmUNHSBac&lc=UgyJjplJogeI8mRGs694AaABAg.9cA8Y64Oh7O9cALs1ULU_1&ab_channel=Veritasium
+
+https://ealizadeh.com/blog/non-minimum-phase-systems
